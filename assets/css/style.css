@@ -1,0 +1,82 @@
+.iframeContainer {
+  padding: 20px;
+  border: 1px solid #e3e3e3;
+}
+body{
+  font-family: "sans-serif",sans-serif,Arial, Helvetica;
+  font-size: 100%;
+  background-color:white;
+  margin: auto;
+  padding:relative;
+}
+/* Customizing header 2 */
+h2{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: darkcyan;
+  font-size:2em;
+}
+/* Customizing paragraph */
+p{
+  color:rgb(7, 87, 87);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.1em;
+  text-align: justify;
+}
+
+/* Sticky Footer rules (https://getbootstrap.com/examples/sticky-footer/) */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Padding bottom by footer height */
+  padding-bottom: 80px;
+}
+/* Footer text */
+.footer-text{
+  color: rgb(24, 68, 28);
+  word-spacing: 2px;
+  font-size: 1.1em;
+  margin:0;
+  text-decoration: none;
+}
+/* Customizing Jumbotron for Landing Page */
+.jumbotron{
+  content:"";
+  display: block;
+  padding: 10px;
+  background-image: url("../images/banner.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color:white;
+  width:100%;
+  height:100%;
+  opacity:1.0;
+  z-index:-1;
+}
+/* Span Style */
+.span-text {
+  float: left;
+  width: 0.7em;
+  font-size: 300%;
+  font-family: algerian, courier;
+  line-height: 80%;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%; /* Set the fixed height of the footer here */
+  height: 10px;
+  padding-top: 10px;
+  padding-bottom: 60px;
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+#footer p {
+  margin: 0;
+  font-size: 16px;
+}
