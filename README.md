@@ -14,4 +14,4 @@ The core visualization is a scatter plot  between two of the data variables such
 * Animate the transitions for your circles' locations as well as the range of your axes. 
 * Circles change color during animation
 * d3-tip that is triggered by mouseover each circle, reveals a specific element's data
-* My visualization can be seen @ https://ionguha.github.io/D3-Challenge/
+* My visualization can be seen @ https://ionguha.github.io/D3-Challenge/index.html
