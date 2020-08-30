@@ -14,3 +14,4 @@ Why make a static graphic when D3 lets you interact with your data?
 * Animate the transitions for your circles' locations as well as the range of your axes. 
 * Circles change color during animation
 * d3-tip that is triggered by mouseover each circle, reveals a specific element's data
+The webpage can be seen @ https://ionguha.github.io/D3-Challenge/
