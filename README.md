@@ -9,7 +9,7 @@ The core visualization is a scatter plot  between two of the data variables such
 * Responsive plot window
 * Axes and labels to the left and bottom of the chart.
 ### Impress the Boss features
-Why make a static graphic when D3 lets you interact with your data?
+_Why make a static graphic when D3 lets you interact with your data?_
 * Placed additional labels(three for each axis) in my scatter plot and give them click events so that your users can decide which data to display. 
 * Animate the transitions for your circles' locations as well as the range of your axes. 
 * Circles change color during animation
